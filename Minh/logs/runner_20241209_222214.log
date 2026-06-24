@@ -1,0 +1,35 @@
+2024-12-09 22:22:14,656 - INFO: Starting benchmark for http://localhost:8080
+2024-12-09 22:23:17,159 - INFO: 
+Network Request Statistics:
+Minimum: -1.00 ms
+First Quartile (Q1): 0.36 ms
+Median (Q2): 0.50 ms
+Third Quartile (Q3): 0.91 ms
+Maximum: 188.08 ms
+Mean: 9.44 ms
+Standard Deviation: 37.48 ms
+
+Render Time Statistics:
+Minimum: 20.50 ms
+First Quartile (Q1): 21.60 ms
+Median (Q2): 25.70 ms
+Third Quartile (Q3): 64.60 ms
+Maximum: 108.80 ms
+Mean: 40.41 ms
+Standard Deviation: 22.68 ms
+
+Check Time Diagnostics:
+Average time between checks: 3.02 ms
+Max time between checks: 25.40 ms
+Min time between checks: 0.00 ms
+Number of checks: 1353
+
+Stability Check Diagnostics:
+Average stability check duration: 0.00 ms
+Max stability check duration: 0.20 ms
+
+State Change Times:
+Number of state changes: 59
+Avg time between state changes: 17.29 ms
+State change times: [24.5, 9.800000000046566, 10.100000000093132, 0, 53.60000000009313, 57.699999999953434, 0, 29.699999999953434, 33.800000000046566, 13.199999999953434, 17.699999999953434, 17, 26.5, 9.5, 0, 23.600000000093132, 23, 19.899999999906868, 0, 0, 0, 0, 20.300000000046566, 27.600000000093132, 12, 15.800000000046566, 19, 15.399999999906868, 21.300000000046566, 21.800000000046566, 18.9000000001397, 27.800000000046566, 26.199999999953434, 0, 40.5, 38.800000000046566, 42.9000000001397, 0, 0, 22.699999999953434, 2.1000000000931323, 13.5, 23.299999999813735, 0, 17.300000000046566, 20, 2, 3.5, 22.100000000093132, 24.4000000001397, 0, 26.9000000001397, 6.199999999953434, 0, 12.700000000186265, 38, 21.299999999813735, 25.399999999906868, 20.600000000093132]
+

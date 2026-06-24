@@ -1,0 +1,5 @@
+[submodule "vtk"]
+	path = vtk
+	url = https://gitlab.kitware.com/vtk/vtk.git
+[submodule "trame-tutorial"]
+	url = https://github.com/kitware/trame-tutorial.git
